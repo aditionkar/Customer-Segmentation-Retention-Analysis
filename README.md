@@ -35,8 +35,3 @@ pandas, numpy, scikit-learn, XGBoost, matplotlib, seaborn, plotly
 6. Retention decision matrix
 7. Visualizations
 
-## Possible extensions
-
-- Discounted/probabilistic CLV instead of simple total spend
-- SHAP values for per-customer churn explanations
-- Live scoring pipeline for a retention dashboard
